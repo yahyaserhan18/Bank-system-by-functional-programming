@@ -1,0 +1,7 @@
+﻿  bank1Project.cpp
+C:\Documents\abuHadhudCourses\abuH course8\project2banek\myLib.h(23,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course8\project2banek\strings.h(133,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course8\project2banek\strings.h(153,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course8\project2banek\strings.h(194,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course8\project2banek\strings.h(243,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  bank1Project.vcxproj -> C:\Documents\abuHadhudCourses\abuH course8\project2banek\x64\Debug\bank1Project.exe
